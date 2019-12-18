@@ -1,0 +1,7 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  SQLiteWrapper.cpp
+d:\vs2017\sqlitetest\sqlitetest\sqlitewrapper.cpp(97): warning C4101: “e”: 未引用的局部变量
+  main.cpp
+  正在生成代码...
+main.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  sqliteTest.vcxproj -> D:\VS2017\sqliteTest\Debug\sqliteTest.exe

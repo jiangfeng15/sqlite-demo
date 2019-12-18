@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  sqlite3.c
+  sqlite3.cpp
+  sqlite3.vcxproj -> D:\VS2017\sqlite3\x64\Debug\sqlite3.lib
